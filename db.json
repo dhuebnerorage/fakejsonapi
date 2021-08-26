@@ -10,10 +10,5 @@
   ],
   "profile": {
     "name": "typicode"
-  },
-  "services": [
-    { "app": 1, "title": "Post 1" },
-    { "app": 2, "title": "Post 2" },
-    { "app": 3, "title": "Post 3" }
-  ]
+  }
 }
